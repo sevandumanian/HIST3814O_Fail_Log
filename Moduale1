@@ -1,1 +1,33 @@
-test test test
+### Moduale 1
+Firstly, lost my entire fail log throughout the week, I belive I forogt to save it of create a /name.
+Whatever the case I am frusterated and will recreated my fail log to the best of my ability
+Throughout the week of the first moduale I had to reset my password because I downloaded the github desktop app
+and it was not accepting my password before and after the change.
+All work will be done on Google Chrome.
+Section 1 of Moduale 1 went well except leading up to the coding of pictures. For some reason I have coded them 
+correctly yet the image does not come out and it shows this defualt picture which I do not know how to explain
+*NOTE THAT PART 1 SHOULD BE IN MY GITHUB*
+Section 2 learning how to use the comands on the DH Box was going well until the saving the work and re opening it
+The work would save no problem but will not open the work like in the YouTube Video. 
+Will send a screenshot to the prof to prove I followed and understand the code operation
+*Sreenshots made*
+Because of that I failed to finish the last few steps of sections 2
+Going at it for about an hour and I feel that it is not working because I do not have the software or something to open the code
+FAILURE TO COMPLETE EXERCISE 4!
+DH Box & Computer would not let me pull up my past file from exercise 2
+Trial and error occured but nothing could be resolved to get past 4.1
+Because I could not pull up my past work that is still saved
+I could not incouperate the comand $ mkdir first-repo
+Because my computer can not read the DH Box work from chrome, I can not get the Git status and merge
+Very upset that I can not put all the parts together!
+
+### Things taken away from Moduale #1
+https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
+sudo dpkg -i pandoc-1.19.2.1-1-amd64.deb
+pandoc -v
+history
+history > dhbox-work-today.md
+nano dhbox-work-today.md
+sudo apt-get install nano
+pandoc -o todayscommands.docx dhbox-work-today.md
+1s
