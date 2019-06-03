@@ -1,1 +1,23 @@
-text
+### Week 3 Blog
+Reading is from Ian Milligan - Using Imageplot to explore web archive images
+
+*The command:*
+
+mogrify -path /volumes/lacie/geocities-images/enchantedforest-JPGs -format jpg -type TrueColor "*.*"
+________________
+*Note that I have never done any data cleaning in any courses, Communications is just writing essays and thesis papers. Very basic and uneventful
+
+
+Why don't historians discuss this kind of work?
+Visual media implies the development of digital archives through another medium. Imagery is used to focus on the bigger picture.
+In the video shown by Ian Milligan, the collection of images creates a picture to focus on geography versus individuals. Historians can argue
+population density and growth of society. With the imageplot creation, historians can see a visual media repreisantation of area. Comparisons
+can be made between population in various years. Historians can raise the argument that population density has increased.
+
+What gets hidden, what gets lost, how is the ultimate argument weaker as a result?
+With the use of ImagePlot, the amulgimation of thousands of images provides a generic connotation. Due to the large numbers, imagery and analytics
+focus on the bigger picture and each individual gets loss in the census. the ultimate argument becomes weaker because although imagery
+is capturing the bigger picture, each archives is being generalizes and that can potentially contridict history and historical events,
+The generalization can define history as a whole but hurts each historical event due to the lack of explination.
+
+Relationship to the exercises:
