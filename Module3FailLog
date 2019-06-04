@@ -1,1 +1,16 @@
 ### Week 3 Fail Log
+Input the Command line for step 1
+The code came out but once I downloaded it and tried to transfer it over, I failed
+Attempted to figure out a way to save this and prove that the code works
+*NOTE THAT THIS WILL BE SUBMITTED UNDER THE EXTRA WORK PART*
+That is my texas.txt download
+Could not finish that so moved onto step one of identifying lines
+With the RegerX, my work somehow is not being read by the DHBox
+Maybe I did the work incorrectly or transfrered it the wrong way
+Maybe I did not do enough but because of this failure, I am unable to follow the
+sed -r -i.bak 's/(.+\bto\b.+)/~\1/g' texas.txt Command
+After I transfered my text back to regex I could not finish the process
+Excersice 1 was completed in bits but not fully because of the failure at the early stages
+Parts of failure came from mistakes and lack of understanding the RegEXR
+Other half came from failure of commands working even though I followed it step by step and watched the youtube video 5 times
+Exercise #2
